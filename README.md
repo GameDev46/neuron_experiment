@@ -1,12 +1,12 @@
 <a href="https://github.com/GameDev46" title="Go to GitHub repo">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=Profile&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - neuron_experiment">
-    <img src="https://img.shields.io/badge/Version-1.2.3-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - neuron_experiment">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=|&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - neuron_experiment">
+    <img src="https://img.shields.io/badge/Version-0.4.3-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - neuron_experiment">
 </a>
 
 
-![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
-![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
-![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=JavaScript)
     
 <a href="https://github.com/GameDev46/neuron_experiment/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/neuron_experiment?style=for-the-badge&labelColor=1f1f22" alt="stars - neuron_experiment">
@@ -17,17 +17,6 @@
 <a href="https://github.com/GameDev46/neuron_experiment/issues">
     <img src="https://img.shields.io/github/issues/GameDev46/neuron_experiment?style=for-the-badge&labelColor=1f1f22&color=blue"/>
  </a>
-
-<br>
-<br>
-
-<a href="https://github.com/GameDev46/neuron_experiment/releases/">
-    <img src="https://img.shields.io/github/tag/GameDev46/neuron_experiment?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
-</a>
-
-<a href="https://github.com/GameDev46/neuron_experiment/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/neuron_experiment?style=for-the-badge&labelColor=1f1f22" alt="issues - neuron_experiment">
-</a>
 
 <br>
 <br>
@@ -87,8 +76,3 @@ Train your own neural networks in a custom world of your creation and the genera
 ### Survival rates
 
 This tells you the percentage of thge population that made it to the safe zone in each generation (they must remain in the safe zone to be counted)
-
-
-## Website
-
-You can use the program [here on its website](https://gamedev46.github.io/neuron_experiment/) or download the files and run it locally on your device!
